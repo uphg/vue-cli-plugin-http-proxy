@@ -1,0 +1,8 @@
+{
+  "name": "vue-cli-plugin-http-proxy",
+  "version": "0.0.4",
+  "description": "Vue CLI server proxy",
+  "dependencies": {
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
